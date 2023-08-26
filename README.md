@@ -2,5 +2,7 @@
 
 ## Description
 __Auteur__: Trang DO
+
 __Date de création__: 2023-08-26
-__Présentation__: Cet exercie permet d'apprendre comment modéliser une base de données avec de multiple tables et établir des relations entre elles.
+
+__Présentation__: Cet exercie permet d'apprendre comment modéliser une base de données avec de multiples tables et établir des relations entre elles.
